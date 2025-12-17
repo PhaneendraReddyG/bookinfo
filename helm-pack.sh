@@ -1,6 +1,6 @@
 helm package nginx-app 
 
-mv nginx-app-* docs/ 
+mv bookinfo-* docs/ 
 
 helm repo index docs --url https://phaneendrareddyg.github.io/bookinfo 
 
