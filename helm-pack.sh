@@ -1,4 +1,4 @@
-helm package nginx-app 
+helm package bookinfo 
 
 mv bookinfo-* docs/ 
 
