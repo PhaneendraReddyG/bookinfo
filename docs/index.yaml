@@ -3,12 +3,22 @@ entries:
   bookinfo:
   - apiVersion: v2
     appVersion: 1.16.4
-    created: "2025-12-16T13:47:03.672593691Z"
+    created: "2025-12-17T06:41:52.404298459Z"
     description: A Helm chart for Kubernetes
-    digest: 510f9f9b207938af3023b3d35e63db1298bde47a1b00942488b602b31e7083ad
+    digest: b39b1669ee2b8cc9d78019e9d3b51fb357c6367ab8a84da23244b50b6c1d54ed
+    name: bookinfo
+    type: application
+    urls:
+    - https://phaneendrareddyg.github.io/bookinfo/bookinfo-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.4
+    created: "2025-12-17T06:41:52.402714247Z"
+    description: A Helm chart for Kubernetes
+    digest: 1619ef9a4bd09e0068d9436407125df1675101dc059ca990a5004b7846d49104
     name: bookinfo
     type: application
     urls:
     - https://phaneendrareddyg.github.io/bookinfo/bookinfo-0.0.1.tgz
     version: 0.0.1
-generated: "2025-12-16T13:47:03.670969112Z"
+generated: "2025-12-17T06:41:52.3989081Z"
